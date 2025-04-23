@@ -10,13 +10,15 @@
 	"difficulty": "beginner",
 	"syntax": "python",
 	"duration" : 2,
-	"template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template",
     	"projectType": "project",
+	"autoPlay": false,
 	"description": {
-        "en": "How much will your insurance cost based on a set of variables? Use this small dataset to model the relationship between several explanatory variables and a numerical target using a linear regression algorithm.",
-        "es": "¿Cuánto costará tu seguro según un conjunto de variables? Usa este pequeño conjunto de datos para modelar la relación entre varias variables explicativas y un objetivo numérico mediante un algoritmo de regresión lineal."
+        "us": "Learn how to predict health insurance costs using linear regression! In this hands-on project, you'll explore a real dataset, perform EDA, build and optimize a model, and gain key machine learning skills. Ideal for beginners ready to apply data science step by step.",
+        "es": "¡Aprende a predecir el costo del seguro médico usando regresión lineal! En este proyecto práctico, explorarás un conjunto de datos real, realizarás un análisis exploratorio, construirás y optimizarás un modelo, y adquirirás habilidades clave en machine learning. Ideal para principiantes."
     	},
 	"gitpod": true,
-	"template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template"
-
+	"template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template",
+	"telemetry": {
+	  "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=416"
+	  }
 }
